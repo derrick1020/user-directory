@@ -8,11 +8,7 @@ The User directory is a React app that uses the random user generator from [rand
 ### _Visit this website by clicking the link below_
 [User Directory](https://derrick1020.github.io/user-directory/)
 
-<<<<<<< HEAD
-![employee directory screenshot](public/img/user.png)
-=======
-![user directory screenshot](public/img/user.png)
->>>>>>> a6cdae7d0edffa317ae7d4873efc3554881a4693
+[user directory screenshot](public/img/user.png)
 
 ## Installation
 
