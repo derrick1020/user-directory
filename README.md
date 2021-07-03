@@ -3,22 +3,12 @@
 
 ## Description
 
-The employee directory is a React app that uses the random user generator from [randomuser.me](https://randomuser.me/) to generate a table of 40 random users along with their associated information. You can filter the table alphabetically by 3 categories: name, email, and username. The table can then displayed in reverse order by clicking a generated arrow button.
+The User directory is a React app that uses the random user generator from [randomuser.me](https://randomuser.me/) to generate a table of 40 random users along with their associated information. You can filter the table alphabetically by 3 categories: name, email, and username. The table can then displayed in reverse order by clicking a generated arrow button.
 
 ### _Visit this website by clicking the link below_
 [Employee Directory](https://derrick1020.github.io/user-directory/)
 
 ![employee directory screenshot](public/img/user.png)
-
-## Table of Contents 
-
-* [Installation](#installation)
-
-* [License](#license)
-
-* [Tests](#tests)
-
-* [Questions](#questions)
 
 ## Installation
 
